@@ -170,6 +170,8 @@
 				TargetAttributes = {
 					1D104D791ACA36CC00973364 = {
 						CreatedOnToolsVersion = 6.2;
+						DevelopmentTeam = 534USY3725;
+						DevelopmentTeamName = "Arie Doelman";
 						LastSwiftMigration = 0800;
 					};
 				};
